@@ -1,4 +1,4 @@
-<title>My Portfolio</title>
+<header>My Portfolio</header>
 <header>
     <h1>Mohammed Afsal</h1>
     <p>Computer Science Student | Future Businessman</p>
