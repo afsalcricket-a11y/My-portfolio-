@@ -17,7 +17,7 @@
 <section id="home">
     <h2>Welcome to My Portfolio</h2>
     <p>
-        Hello! I am Mohammed Afzal, a Computer Science student
+        Hello! I am Mohammed Afsal, a Computer Science student
         interested in programming, technology and business.
     </p>
     <p>
@@ -35,7 +35,7 @@
 <section id="about">
     <h2>About Me</h2>
     <p>
-        My name is Mohammed Afzal. I am a Computer Science student.
+        My name is Mohammed Afsal. I am a Computer Science student.
         I enjoy learning programming and exploring new technologies.
     </p>
     <p>
