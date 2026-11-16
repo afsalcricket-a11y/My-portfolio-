@@ -1,5 +1,4 @@
 <title>My Portfolio</title>
-<!-- Header -->
 <header>
     <h1>Mohammed Afsal</h1>
     <p>Computer Science Student | Future Businessman</p>
